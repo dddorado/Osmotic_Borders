@@ -1,0 +1,34 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Osmotic Borders Dataset
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Dan Anthony
+    family-names: Dorado
+    email: dddorado@up.edu.ph
+    affiliation: UP School of Library and Information Studies
+    orcid: 'https://orcid.org/0000-0002-2844-0732'
+  - given-names: Jonathan
+    family-names: Isip
+    email: jdisip@up.edu.ph
+    affiliation: UP School of Library and Information Studies
+    orcid: 'https://orcid.org/0000-0002-9231-4749'
+repository-code: >-
+  https://github.com/dddorado/Osmotic_Borders/blob/main/Osmotic%20Borders.qmd
+abstract: |2-
+   This study explores the intricate dynamics of international migration and the inequalities that arise from it, focusing on socio-economic, demographic, and political factors. Through a comprehensive analysis of data from reputable sources such as the United Nations, World Bank, and UNESCO, the research identifies key trends and patterns influencing migration. Findings reveal that higher GDP per capita is a major attractor for migrants, while income inequality within countries presents a complex relationship with migration rates. Political stability and governance significantly influence migration patterns, with higher levels of democracy attracting more migrants. Access to essential services such as water, sanitation, and healthcare facilities also emerged as crucial factors in migration decisions. The study contributes to several UN Sustainable Development Goals, including Decent Work and Economic Growth, Reduced Inequalities, Good Health and Well-being, and Clean Water and Sanitation.
+
+    Future research recommendations include incorporating longitudinal data to understand the evolving causal mechanisms behind migration inequalities and exploring the qualitative aspects of migrants' lived experiences. The study also emphasizes the need for targeted policy interventions to address migration inequalities. These include enhancing economic opportunities in source countries, promoting political stability, improving infrastructure and healthcare services, and fostering international cooperation to manage migration flows. By addressing these areas, the study aims to inform policymakers and contribute to the development of more equitable and sustainable migration systems, ultimately fostering a more inclusive global society.
+keywords:
+  - International Migration
+  - Migration Inequalities
+  - Sustainable Development Goals (SDGs)
+license: CC-BY-4.0
+commit: b1304d43258cbb73279ee1acdbcc4530d09094be
+version: '1'
+date-released: '2024-06-22'
