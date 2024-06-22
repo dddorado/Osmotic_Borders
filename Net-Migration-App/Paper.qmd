@@ -1,0 +1,637 @@
+---
+title: "Osmotic Borders"
+subtitle: "A Study of Inequalities in International Migration"
+author:
+  - name: Dan Anthony Dorado
+    orcid: 0000-0002-2844-0732
+    email: dddorado@up.edu.ph
+    affiliation: 
+      - name: UP School of Library and Information Studies
+        city: Quezon City
+        state: MM
+        url: httP://upslis.info
+  - name: Jonathan Isip
+    orcid: 0000-0002-9231-4749
+    email: jdisip@up.edu.ph
+    affiliation: 
+      - name: UP School of Library and Information Studies
+        city: Quezon City
+        state: MM
+        url: httP://upslis.info
+format: docx
+documentclass: article
+abstract: > 
+  This study explores the intricate dynamics of international migration and the inequalities that arise from it, focusing on socio-economic, demographic, and political factors. Through a comprehensive analysis of data from reputable sources such as the United Nations, World Bank, and UNESCO, the research identifies key trends and patterns influencing migration. Findings reveal that higher GDP per capita is a major attractor for migrants, while income inequality within countries presents a complex relationship with migration rates. Political stability and governance significantly influence migration patterns, with higher levels of democracy attracting more migrants. Access to essential services such as water, sanitation, and healthcare facilities also emerged as crucial factors in migration decisions. The study contributes to several UN Sustainable Development Goals, including Decent Work and Economic Growth, Reduced Inequalities, Good Health and Well-being, and Clean Water and Sanitation.
+
+  Future research recommendations include incorporating longitudinal data to understand the evolving causal mechanisms behind migration inequalities and exploring the qualitative aspects of migrants' lived experiences. The study also emphasizes the need for targeted policy interventions to address migration inequalities. These include enhancing economic opportunities in source countries, promoting political stability, improving infrastructure and healthcare services, and fostering international cooperation to manage migration flows. By addressing these areas, the study aims to inform policymakers and contribute to the development of more equitable and sustainable migration systems, ultimately fostering a more inclusive global society.
+toc: FALSE
+highlight-style: github
+number-sections: FALSE
+bibliography: https://api.citedrive.com/bib/15900e8f-4d6b-498c-ae51-f9cbd1718c5c/references.bib?x=eyJpZCI6ICIxNTkwMGU4Zi00ZDZiLTQ5OGMtYWU1MS1mOWNiZDE3MThjNWMiLCAidXNlciI6ICI2NzA1IiwgInNpZ25hdHVyZSI6ICIxYzg5NTE5NjM1MjAwNWVlZjIzMWM3YzdhNzhiOTkzNTg5NGZiNTM0Yjc3MGI0YTY1M2VhNWNiZjk0Nzc5ZGExIn0=
+link-citations: true
+csl: apa.csl
+crossref:
+  fig-title: Figure
+  tbl-title: Table
+  title-delim: " . "
+editor: visual
+---
+
+# Introduction
+
+## Background on international migration
+
+The term “migrant” is not defined under international law but can be understood as “a person who moves away from his or her place of usual residence, whether within a country or across an international border, temporarily or permanently, and for a variety of reasons” [@OIM2019]. Migration thus refers to the act of movement from a person’s usual place of residence across, in the context of this paper, an international border. The freedom of movement is enshrined in Article 13 of the @Universal1948 which underpins current compacts and conventions on human rights and migration. Despite this, it was only in 2018 that the Global Compact for Safe, Orderly and Regular Migration was agreed upon by 192 UN Member States as a holistic agreement to cover all dimensions of international migration.
+
+International migration is a multifaceted phenomenon influenced by various factors and with significant impacts on both sending and receiving countries. One of the earliest theories on international migration, dating back to the 1960s and 1970s, focused on labor migration in the context of economic development [@Massey1993]. This theory emphasized the role of economic factors in driving migration patterns, particularly in the context of labor markets and opportunities. As globalization and labor transfer intensify, the impact of international migration on global CO2 emissions has become a subject of concern [@Liang2020.] The movement of people across borders contributes to carbon footprints, necessitating a closer examination of the environmental implications of migration.
+
+In regions like Thailand, international labor migration plays a crucial role in driving regional economic growth, with foreign workers serving as essential inputs in the production processes of labor-importing countries [@Tipayalai2020]. This highlights the interconnectedness of migration with economic activities and the reliance of certain economies on migrant labor. Moreover, the migration of health professionals, as observed in Switzerland, poses governance challenges, especially concerning the role of private recruitment agencies and the impact on public health systems [@Dia2018]. Understanding the dynamics of international migration is essential for effectively managing the movement of skilled professionals across borders.
+
+The impact of international migration extends beyond economic aspects to include financial and economic cooperation between countries [@Savin2023]. Studying the theoretical foundations and practical implications of migration is crucial for enhancing cooperation and understanding the broader implications of population movements. In the case of India, which is a significant sender of international migrants, the diaspora includes both lower-skilled laborers and highly-educated professionals, reflecting the diverse nature of migration flows [@Khadria2022]. This diversity in the composition of migrant populations underscores the need for nuanced approaches to address the challenges and opportunities associated with international migration.
+
+Economic prospects and international labor migration are closely intertwined, with increased unemployment and poverty rates often driving individuals to seek opportunities abroad [@Susanto2022]. The relationship between economic conditions and migration patterns underscores the complex interplay of factors influencing people's decisions to move across borders. Additionally, natural hazards have been identified as potential drivers of international migration, with migration serving as an adaptation mechanism in the face of environmental challenges [@Groschl2017]. Understanding the role of natural disasters in shaping migration patterns is essential for developing effective policies to address climate-induced displacement.
+
+In countries like Nigeria, the causes and consequences of international migration are multifaceted, with push factors such as unemployment, safety concerns, and low salaries driving individuals to seek better opportunities elsewhere [@Duru2021]. Addressing the root causes of migration requires a comprehensive approach that considers both the factors compelling individuals to leave their home countries and the attractions of potential destinations. Internal and international migration are interconnected phenomena, as observed in East and Southeast Asia, where migration patterns are influenced by both domestic and cross-border movements [@Hugo2016]. Recognizing the linkages between internal and international migration is essential for understanding the broader dynamics of population mobility in the region.
+
+The impact of international labor migration during conflicts, such as the Russian war against Ukraine, highlights the complexities of migration flows in times of crisis [@International2022]. Conflict-induced migration poses unique challenges and requires tailored responses to address the needs of displaced populations. Brain drain, a phenomenon where highly skilled individuals migrate from their home countries, raises questions about the economic and non-economic factors driving international migration [@Ette2021]. Balancing the benefits of brain circulation with the challenges of brain drain is essential for countries seeking to retain talent and foster sustainable development.
+
+Population projections with migration uncertainty underscore the challenges in forecasting demographic trends, particularly in the context of international migration [@Azose2016]. The ebb and flow of migration are influenced by various factors, making accurate projections a complex task for policymakers and researchers. Natural disasters have been found to impact migration patterns, with individuals seeking to move in response to environmental risks [@Drabo2014]. Understanding the relationship between natural disasters, migration, and education is crucial for mitigating the impacts of climate change on vulnerable populations.
+
+Happiness and migration are interconnected, with studies exploring the subjective well-being of migrants before and after their relocation [@Nowok2013]. The pursuit of happiness is a fundamental driver of human behavior, including decisions related to migration. Transnational migrants often face challenges in navigating borders and accessing justice in the global economic landscape [@Uhde2018]. Recognizing the rights and responsibilities of migrants is essential for promoting social justice and equity in a globalized world.
+
+International migration is a complex phenomenon influenced by economic, environmental, social, and political factors. Understanding the drivers, impacts, and challenges of migration is essential for developing effective policies that promote the well-being of migrants and host communities. By synthesizing research from various disciplines, we can gain a comprehensive understanding of international migration and work towards creating a more inclusive and sustainable global society.
+
+## Importance of studying migration inequalities
+
+Studying migration inequalities is crucial due to its significant implications on various aspects of society, including economic, social, and political dimensions. The relationship between migration and inequality has been extensively researched, with scholars emphasizing the need to understand the dynamics and consequences of this interaction [@McKenzie2007]. Migration can both exacerbate and alleviate existing inequalities, making it essential to delve into the mechanisms through which migration influences disparities in income, education, and access to resources.
+
+Migration has been identified as a significant factor contributing to income inequality, with studies highlighting the impact of migrants' remittances on income distribution at both origin and destination countries [@Stark2006]. The flow of remittances from migrants to their home countries can have complex effects on income inequality, depending on how these resources are distributed within households and communities. Understanding the behavioral link between migration and income inequality is essential for formulating policies that promote equitable economic development.
+
+In the context of household dynamics, migration has been shown to create inequalities in mobility between migrant and non-migrant households, as well as among different types of migrant households [@John2016]. These disparities can stem from differential access to opportunities, resources, and social networks, underscoring the need to address the structural factors that perpetuate inequality within and across migrant communities. By examining the relationship between migration and household inequality, researchers can identify strategies to promote social cohesion and inclusivity.
+
+Moreover, migration plays a crucial role in shaping racial and ethnic inequalities, particularly through changes in population composition and access to economic opportunities [@Oconnell2017]. The movement of individuals across borders can lead to shifts in the demographic makeup of communities, influencing patterns of segregation, discrimination, and disadvantage. Studying how migration affects racial inequality is essential for advancing social justice and promoting diversity in multicultural societies.
+
+The impact of migration on health inequalities has also garnered attention, with research highlighting the potential contribution of migration to widening disparities in health outcomes between different regions or population groups [@Sha2024]. Factors such as access to healthcare, social determinants of health, and the distribution of health resources can be influenced by migration patterns, necessitating a comprehensive analysis of the link between migration and health disparities. Understanding how migration contributes to changes in the distribution of health over time is crucial for designing effective public health interventions.
+
+In the context of developing countries, migration has been found to have implications for wealth inequalities, with studies examining how migration decisions interact with economic growth and income distribution [@Connolly2007]. The movement of individuals from rural to urban areas, as well as across national borders, can reshape wealth patterns and access to opportunities, highlighting the need to address the structural barriers that perpetuate inequality. By investigating the role of migration in wealth constraints and migrant selection, researchers can inform policies that promote inclusive economic development.
+
+Furthermore, the relationship between migration and wage inequality has been a subject of scholarly inquiry, with studies exploring how regional migration patterns influence wage disparities within countries [@Kandilige2023]. Internal migration flows, as well as international labor mobility, can impact wage structures and income differentials, posing challenges for policymakers seeking to address wage inequality. Analyzing the interplay between regional migration and wage inequality is essential for understanding the broader implications of labor mobility on economic disparities.
+
+In the context of remittances, migration has been shown to have dynamic effects on income inequality, with studies highlighting how migration prevalence can both increase and reduce inequality depending on the level of community migration [@Naval2017]. The flow of remittances from migrants to their families can influence income distribution and wealth accumulation, underscoring the need to consider the redistributive effects of migration on household and community levels. By examining the relationship between remittances and inequality, researchers can provide insights into the mechanisms through which migration shapes economic disparities.
+
+Moreover, migration has been linked to changes in poverty levels and human capital development, with studies emphasizing the role of migration outflow in reducing income inequality and poverty rates [@Girsberger2020]. The movement of individuals from less developed to more prosperous regions can lead to shifts in economic opportunities and access to resources, affecting the well-being of both migrants and non-migrants. Understanding how migration influences poverty and human capital outcomes is essential for designing policies that promote sustainable development and social equity.
+
+While the theoretical literature for migration inequalities are plentiful, current research and datasets frequently examine migration by itself or in relation to a limited and controlled number of variables. The Global Compact for Safe, Orderly and Regular Migration highlights as its first objective the need for accurate data that can support global evidence-based policy making [@Global2023].  The compact seeks to use this data to “minimize the adverse drivers and structural factors that compel people to leave their country of origin” and to safeguard the conditions of all categories of migrants.
+
+Likewise, the successful implementation of the 10th goal of the UN’s 2030 Agenda for Sustainable Development to reduce inequalities requires decisive policy action [@Huck2023]. The latest monitoring report for the Sustainable Develop Goals revealed that 6,876 deaths on migratory routes were recorded in 2022, and that more than 5,000 deaths occur every year with the sole exception of the Covid-19 lockdowns in 2020 [@UN2023]. It is clear that addressing and minimizing migration inequalities could not be a simple box ticking exercise to fulfill Goal 10. While laws and global compacts to protect migrant rights are steps forward, reducing migration inequality relies on the elimination or reduction of other inequalities identified as Sustainable Development Goals such as hunger, poverty, decent work and economic growth, quality education, and clean water and sanitation.
+
+Consequently, studying migration inequalities is essential for understanding the complex interplay between migration dynamics and socio-economic disparities. By examining the impact of migration on income, education, health, and wealth inequalities, researchers can inform evidence-based policies that address structural barriers and promote inclusive development. The multifaceted nature of migration inequalities requires a holistic approach that considers the diverse factors shaping migration patterns and their implications for societal well-being.
+
+# Research Problem
+
+International migration has long been a critical issue influencing global socio-economic landscapes. While migration can offer opportunities for economic improvement and cultural exchange, it often reveals deep-seated inequalities. These inequalities manifest not only in the volume and direction of migration flows but also in the socio-economic outcomes for migrants and the communities involved. Despite extensive research on migration, a significant gap remains in understanding the nuanced dynamics of migration inequalities across different countries and regions. This research aims to address this gap by exploring the patterns and determinants of migration inequalities using a comprehensive dataset. By identifying the key factors contributing to these inequalities, this study seeks to provide insights that can inform policy interventions and promote more equitable migration practices.
+
+## Research Questions
+
+To address the research problem, the study will focus on the following research questions:
+
+1.  What are the trends in international migration over the past few decades?
+
+    Understanding the historical and recent trends in international migration is crucial for setting the context of this study. Analyzing the evolution of migration patterns can help identify significant shifts and underlying causes. This question will be addressed through descriptive statistical analysis of the dataset and visualization of migration trends over time using line graphs and bar charts.
+
+2.  What is the extent of migration inequality across different countries and regions?
+
+    Measuring migration inequality is fundamental to understanding its scope and impact. The second question aims to quantify the disparities in migration flows and outcomes. Key approaches will include calculating inequality measures such as the Gini coefficient and Lorenz curves and conducting a comparative analysis of migration inequality between different income groups and regions.
+
+3.  What are the key factors contributing to migration inequalities?
+
+    Identifying the determinants of migration inequalities can provide insights into the root causes and potential areas for intervention. This will involve correlation and regression analyses to examine the relationship between socio-economic, political, and demographic factors and migration patterns. The dataset will be analyzed to identify significant predictors of migration inequality.
+
+4.  How do migration inequalities impact both source and destination countries?
+
+    Examining the consequences of migration inequalities is essential for understanding the broader implications. The fourth question will explore the socio-economic outcomes for migrants and their families in source countries and the challenges and opportunities faced by destination countries in managing migration flows.
+
+5.  What policy interventions can be proposed to address migration inequalities?
+
+    Formulating effective policies to mitigate migration inequalities requires an understanding of what has worked in different contexts. This will be addressed through a review of existing literature and case studies of successful policy interventions. Based on the findings of this study, recommendations for policy measures will be proposed.
+
+By addressing these research questions, the study aims to provide a comprehensive analysis of migration inequalities and contribute to the development of more equitable migration policies.
+
+# Objective of the Study
+
+The objective of this study is to investigate and analyze the inequalities in international migration patterns and outcomes across different countries and regions. This involves several specific aims. Firstly, the study seeks to identify and understand trends in international migration over recent decades by analyzing historical and current data to uncover significant changes and patterns in migration flows. This includes pinpointing which countries and regions have experienced the most notable shifts and the potential reasons behind these changes. Secondly, the study aims to quantify the extent of migration inequality by measuring the disparities in migration flows and outcomes between different countries and regions, using various inequality measures such as the Gini coefficient and Lorenz curves.
+
+Thirdly, the study intends to determine the key factors contributing to migration inequalities through statistical analyses that identify socio-economic, political, and demographic factors influencing migration patterns. Understanding these determinants will help reveal the root causes of migration inequalities, offering insights into the underlying dynamics at play. Fourthly, the research will assess the impacts of migration inequalities on both source and destination countries by examining the socio-economic outcomes for migrants and their families, as well as the broader impacts on receiving communities and economies.
+
+Lastly, based on the findings, the study aims to propose practical and effective policy interventions to address migration inequalities. This involves reviewing successful strategies from different contexts and formulating recommendations for international cooperation and policy development. By achieving these objectives, the study will provide a comprehensive understanding of the complex nature of migration inequalities, contribute to academic knowledge, inform policymakers, and support the development of more equitable migration policies. The ultimate goal is to promote fairer migration practices that benefit both migrants and the societies involved, fostering a more inclusive and balanced global migration system.
+
+\newpage
+# Review of Related Literature
+
+## Existing literature on migration and inequalities
+
+In reviewing the existing literature on migration and inequalities, several key themes emerge from the selected references. The studies shed light on the complex relationship between migration and various forms of inequality, including income, social, health, and regional disparities. @Hatton2005 highlight the concerns of governments in the OECD regarding rising immigration and the challenges of formulating policies to manage migration flows. This underscores the importance of understanding the fundamental drivers of world migration and the implications for social and economic inequalities.
+
+@Faist2016 emphasizes that cross-border migration can serve as a pathway to upward social mobility for migrants while also reinforcing enduring inequalities at a deeper level. This dual impact of migration on social mobility and inequality underscores the need to examine the mechanisms through which migration shapes disparities within and across societies. @Kandilige2023 explores the effects of return migration on livelihoods and wealth inequalities, highlighting the interconnectedness of migration outcomes and social disparities. Understanding how migration decisions interact with economic factors is essential for addressing wealth gaps and promoting inclusive development.
+
+The diaspora model for human migration, as discussed by @Prieto-Curiel2024, underscores the selective nature of migration that attracts young and highly skilled individuals to urban centers, impacting human capital distribution and economic disparities. The role of inequality as a driver of migration is further explored by @Plotnikova2022, who analyze the uneven distribution of wealth, resources, and opportunities as a key factor influencing international migration patterns. This highlights the importance of addressing structural inequalities to mitigate migration pressures and promote social equity.
+
+Internal migration within countries also plays a significant role in shaping inequalities, as demonstrated by @Sudhinaraset2016 in their study on the influence of internal migration on reproductive health in Myanmar. The disparities in access to healthcare and reproductive services among internal migrant populations underscore the need to address health inequalities within national borders. The impact of migration on income growth and convergence is examined by @Ozgen2010, who highlight the complex relationship between migration and regional economic disparities. Understanding how migration affects income distribution is crucial for designing policies that promote economic convergence and reduce inequalities.
+
+The health implications of migration are a key focus of research, with studies like @Sahu2024 highlighting the challenges faced by migrant laborers in accessing adequate healthcare services. Disparities in maternal and infant mortality among migrant populations underscore the need for targeted interventions to address health inequalities. @Cubas2022 explore the impact of the pandemic on migration-related diversities, including racial minorities' vulnerabilities to health risks and economic consequences. This research contributes to a better understanding of how crises like the pandemic exacerbate existing inequalities within migrant communities.
+
+The spatial dimension of migration and its role in regional disparities are examined by @Heider2020, who analyze the patterns of immigrant settlement in Germany and their implications for population development. Immigration trends towards urban centers can reinforce spatial inequalities, highlighting the need to consider the geographical distribution of migrants in policy planning. Gender disparities in migration outcomes are also a focus of research, as demonstrated by @Geist2011, who find that migration can impact household specialization and gender inequality differently for men and women. Understanding how migration influences gender dynamics is essential for promoting gender equality in migration processes.
+
+The relationship between the Gini coefficient and the incentive to migrate is explored by @Stark2020, who investigate the link between relative deprivation, income inequality, and migration behavior. @Czaika2012 delve into the role of internal and international relative deprivation in driving global migration patterns, emphasizing the importance of socio-economic factors in shaping migration decisions. @Stark2006 further examines the behavioral link between inequality and migration, highlighting the repercussions of migration on income distribution and attractiveness to different skill levels. These studies underscore the nuanced interplay between inequality and migration decisions.
+
+The existing literature on migration and inequalities provides valuable insights into the multifaceted relationship between migration dynamics and various forms of social, economic, and health disparities. By examining the impact of migration on income distribution, social mobility, health outcomes, and regional development, researchers can inform policies that address structural inequalities and promote inclusive societies. The diverse perspectives presented in the selected references contribute to a comprehensive understanding of the complexities of migration and its implications for inequality across different contexts.
+
+## Frameworks and models related to migration
+
+Theoretical frameworks and models related to migration encompass a diverse range of perspectives that seek to explain the complex dynamics of human mobility. @Massey1993 provide a comprehensive review and appraisal of theories of international migration, highlighting the role of economic factors in driving migration patterns. The theory posits that international migration, similar to internal migration, is influenced by geographic disparities in labor supply and demand. This economic perspective underscores the importance of understanding the structural determinants of migration flows.
+
+Migration theories often focus on different levels of analysis, as discussed by @Freeman2011, with micro-level theories examining individual migration decisions, macro-level theories providing aggregate explanations, and meso-level theories exploring household and community influences on migration. By considering multiple levels of analysis, researchers can gain a more nuanced understanding of the factors shaping migration processes and outcomes.
+
+@Haas2010 presents a theoretical perspective on migration and development that integrates insights from the new economics of labor migration, livelihood perspectives in development studies, and transnational perspectives in migration studies. This conceptual framework combines agency and structure perspectives to account for the heterogeneous nature of migration-development interactions. By integrating diverse theoretical approaches, this framework offers a comprehensive understanding of the complex relationship between migration and development.
+
+Migration systems theory, as discussed by @Haas2011, posits that migration alters social, cultural, economic, and institutional conditions in both sending and receiving countries. This theory emphasizes the interconnectedness of migration processes and their broader impacts on societal structures. By considering the systemic effects of migration, researchers can analyze how migration reshapes social and economic dynamics at various scales.
+
+The new economics of migration theory, as highlighted by @Nawyn2010, places households at the center of analysis and emphasizes rational decision-making processes within households. This theory views migration decisions as strategic choices made by households to maximize their well-being and economic opportunities. By integrating feminist theory into migration studies, researchers can explore the gendered dimensions of migration processes and the differential impacts on men and women.
+
+In conclusion, theoretical frameworks and models related to migration offer valuable insights into the drivers, processes, and impacts of human mobility. By drawing on diverse theoretical perspectives, researchers can develop a more holistic understanding of migration phenomena and their implications for individuals, communities, and societies. The integration of economic, social, and cultural perspectives enriches migration studies and contributes to a nuanced analysis of the complexities of migration dynamics.
+
+\newpage
+# Methodology
+
+## Research Design
+
+The aim of this study is to explore and explain immigration inequalities by leveraging a rich array of socio-economic, demographic, and political data from multiple reputable sources, including the United Nations (UN), World Bank, and UNESCO. This research adopts a quantitative design, integrating descriptive and inferential statistical methods to analyze the data. The study is structured around three primary objectives: identifying significant predictors of net migration, examining the relationships between these predictors and immigration patterns, and uncovering latent structures within the data through advanced multivariate techniques.
+
+## Data Collection
+
+Country-level datasets were collected for multiple years, encompassing various indicators crucial for understanding immigration inequalities. These indicators include net migration, Gini coefficient, GDP per capita (PPP), democracy index, educational enrollment rates, access to water and sanitation, and crime rates. The diverse sources ensured a comprehensive and multidimensional perspective on the factors influencing immigration.
+
+## Data Preprocessing
+
+To address missing values in the datasets, we employed Multiple Imputation by Chained Equations (MICE), which generates multiple imputations to estimate missing data points and accounts for the uncertainty inherent in these estimates. This approach was implemented using the `mice` package in R. Following imputation, all variables were standardized to ensure comparability across different units and scales. Standardization involved transforming variables to have a mean of zero and a standard deviation of one, facilitating meaningful comparisons and analyses. Data from different sources were then merged based on common country and year identifiers, resulting in a unified dataset that included all relevant variables for each country and year.
+
+## Data Analysis
+
+To achieve our research objectives, we employed a variety of statistical and machine learning techniques. First, correlation analysis was conducted to explore the relationships between net migration and other socio-economic and demographic variables. The `corrplot` package in R was used to visualize these correlations, providing a clear overview of the interrelationships among variables.
+
+Next, regression analysis was performed to identify significant predictors of net migration and to understand the direction and strength of these relationships. The `broom` and `car` packages facilitated this analysis and helped in interpreting the results. Clustering techniques were applied to group countries based on similarities in their socio-economic and demographic profiles. This analysis, visualized using the `factoextra` package, helped identify patterns and commonalities among countries with similar immigration profiles.
+
+To further reduce the dimensionality of the dataset and identify key underlying factors, we conducted Principal Component Analysis (PCA). This technique highlighted the most influential variables driving immigration inequalities, with the results visualized using the `factoextra` package.
+
+## Software and Libraries
+
+Throughout the study, we relied on a suite of R libraries including `tidyverse` for data manipulation and visualization, `mice` for multiple imputation, `corrplot` for correlation matrices, `reshape2` for data reshaping, `broom` and `car` for regression diagnostics, `rworldmap` for spatial visualization, and `factoextra` for clustering and PCA visualization. This comprehensive and robust methodology ensured a thorough investigation of immigration inequalities, leveraging advanced statistical techniques and diverse datasets to provide compelling insights.
+
+By integrating these various approaches, our study provides a detailed and nuanced understanding of the factors driving immigration inequalities, offering valuable insights for policymakers and researchers alike.
+
+\newpage
+# Presentation, Analysis and Interpretation of Data
+
+In this study, we look in to the complex phenomenon of immigration inequalities by examining a diverse array of socio-economic, demographic, and political factors. Using data collected from esteemed organizations such as the United Nations (UN), World Bank, and UNESCO, we aim to uncover the underlying dynamics that drive migration patterns across different countries and regions. The comprehensive dataset spans multiple years and includes critical variables such as net migration rates, income inequality (Gini coefficient), economic performance (GDP per capita in PPP), political stability (democracy index), educational enrollment, access to essential services like water and sanitation, and various crime rates.
+
+Our methodological approach involves a multi-faceted analysis aimed at providing a nuanced understanding of how these variables interact and contribute to immigration inequalities. This section presents the detailed analysis and interpretation of our findings, structured around several key statistical techniques and methodologies.
+
+```{r, include=FALSE, eval=FALSE}
+install.packages("tidyverse")
+install.packages("mice")
+install.packages("corrplot")
+install.packages("reshape2")
+install.packages("broom")
+install.packages("car")
+install.packages("rworldmap")
+install.packages("rworldxtra")
+install.packages("factoextra")
+install.packages("cluster")
+install.packages("sf")
+install.packages("rnaturalearth")
+install.packages("rnaturalearthdata")
+install.packages("knitr")
+```
+
+```{r, include=FALSE, eval=TRUE, echo=FALSE}
+library(tidyverse)
+library(mice)
+library(corrplot)
+library(reshape2)
+library(broom)
+library(car)
+library(rworldmap)
+library(rworldxtra)
+library(factoextra)
+library(cluster)
+library(sf)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(knitr)
+```
+
+```{r, include=FALSE, eval=FALSE}
+# Load the datasets
+gdp_per_capita <- read.csv("gdp_per_capita.csv")
+gini <- read.csv("gini.csv")
+net_migration_data <- read.csv("net_migration_data.csv")
+dataset2 <- read.csv("dataset2.csv")
+```
+
+```{r, include=FALSE, eval=FALSE}
+gdp_per_capita$Year <- as.character(gdp_per_capita$Year)
+gini$Year <- as.character(gini$Year)
+net_migration_data$Year <- as.character(net_migration_data$Year)
+dataset2$Year <- as.character(dataset2$Year)
+```
+
+```{r, include=FALSE, eval=FALSE}
+combined_data <- net_migration_data %>%
+    left_join(gini, by = c("Country", "Year")) %>%
+    left_join(gdp_per_capita, by = c("Country", "Year")) %>%
+    left_join(dataset2, by = c("Country", "Year"))
+```
+
+```{r, include=FALSE, eval=FALSE}
+combined_data <- combined_data %>%
+  select(-X)
+```
+
+```{r, include=FALSE, eval=FALSE}
+mice_imputed <- mice(combined_data, m = 5, method = 'pmm', maxit = 50, seed = 500)
+dataset <- complete(mice_imputed)
+```
+
+```{r, include=FALSE, eval=FALSE}
+# Obtain the world map data
+world_map <- getMap()
+world_map_data <- fortify(world_map)
+
+# Extract unique country names from your dataset
+unique_countries_data <- unique(dataset$Country)
+
+# Extract unique country names from the world map data
+unique_countries_world_map <- unique(world_map_data$id) # Assuming `id` is the country name column in world_map_data
+
+# Find countries in your dataset that do not match the world map data
+mismatched_countries <- setdiff(unique_countries_data, unique_countries_world_map)
+
+# Print mismatched countries
+print(mismatched_countries)
+
+# Create a named vector for renaming
+country_corrections <- c(
+  "Australia/New Zealand" = "Australia",
+  "Bahamas" = "The Bahamas",
+  "Bolivia (Plurinational State of)" = "Bolivia",
+  "Brunei Darussalam" = "Brunei",
+  "CÃ´te d'Ivoire" = "Ivory Coast",
+  "Cabo Verde" = "Cape Verde",
+  "China, Hong Kong SAR" = "China",
+  "Congo" = "Democratic Republic of the Congo",
+  "CuraÃ§ao" = "Curacao",
+  "Czechia" = "Czech Republic",
+  "Dem. People's Republic of Korea" = "South Korea",
+  "Guinea-Bissau" = "Guinea Bissau",
+  "Iran (Islamic Republic of)" = "Iran",
+  "Kosovo (under UNSC res. 1244)" = "Kosovo",
+  "Lao People's Democratic Republic" = "Laos",
+  "Republic of Moldova" = "Moldova",
+  "Russian Federation" = "Russia",
+  "Serbia" = "Republic of Serbia",
+  "TÃ¼rkiye" = "Turkey",
+  "Timor-Leste" = "East Timor",
+  "Venezuela (Bolivarian Republic of)" = "Venezuela",
+  "Viet Nam" = "Vietnam"
+)
+
+# Function to replace mismatched country names
+replace_country_names <- function(country, corrections) {
+  if (country %in% names(corrections)) {
+    return(corrections[[country]])
+  } else {
+    return(country)
+  }
+}
+
+# Apply the function to correct the country names
+dataset$Country <- sapply(dataset$Country, replace_country_names, corrections = country_corrections)
+
+# Check again for any remaining mismatches
+mismatched_countries <- setdiff(unique(dataset$Country), unique(world_map_data$id))
+print("Remaining mismatched countries:")
+print(mismatched_countries)
+
+# Finalized the dataset
+write_rds(dataset, "dataset.rds")
+write_csv(dataset, "dataset.csv")
+```
+
+```{r, include=TRUE, echo=FALSE}
+
+dataset <- readRDS("dataset.rds")
+
+# Select only numerical columns
+numeric_data <- dataset %>% select_if(is.numeric)
+
+# Ensure 'Net_Migration' is included in the numeric data
+numeric_data <- numeric_data %>% select(Net_Migration, everything())
+
+# Standardize the numeric columns
+standardized_data <- as.data.frame(scale(numeric_data))
+
+# Combine standardized data with non-numeric columns (Country, Year)
+final_data <- dataset %>%
+  select(Country, Year) %>%
+  bind_cols(standardized_data)
+```
+
+## The Dataset
+
+In this study, we selected a diverse set of variables to explore and explain immigration inequalities, capturing socio-economic, demographic, and political dimensions as seen in @tbl-dataset. Each variable offers a unique perspective on the factors influencing migration patterns and highlights different aspects of immigration inequalities.
+
+```{r, echo=FALSE}
+#| label: tbl-dataset
+#| tbl-cap: Variables and Their Implications on Immigration Inequality
+# Data for the table
+data <- data.frame(
+  Description = c(
+    "Net migration rate",
+    "Gini coefficient representing income inequality",
+    "GDP per capita in purchasing power parity",
+    "Economist Intelligence Unit's democracy index",
+    "Gross primary school enrollment for males",
+    "Gross primary school enrollment for females",
+    "Gross high school enrollment for males",
+    "Gross high school enrollment for females",
+    "Access to water in rural areas",
+    "Total access to water",
+    "Access to sanitation in urban areas",
+    "Access to sanitation in rural areas",
+    "Total access to sanitation",
+    "Rate of sexual violence",
+    "Rate of theft",
+    "Rate of assault",
+    "Rate of kidnapping",
+    "Homicide rate"
+  ),
+  `Possible Implication to Immigration Inequality` = c(
+    "High net migration may indicate economic or social factors driving people to migrate, affecting inequality in host and origin countries.",
+    "Higher Gini coefficients suggest greater income inequality, which can be a push factor for emigration.",
+    "Higher GDP per capita can attract immigrants seeking better economic opportunities, impacting local job markets.",
+    "Higher democracy index scores may attract immigrants seeking political stability and freedoms, influencing migration patterns.",
+    "Higher enrollment rates can indicate better educational opportunities, which may attract families with children.",
+    "Higher enrollment rates can indicate better educational opportunities, which may attract families with children.",
+    "Higher enrollment rates can indicate better educational opportunities, which may attract families with children.",
+    "Higher enrollment rates can indicate better educational opportunities, which may attract families with children.",
+    "Better access to water in rural areas can improve living conditions, potentially reducing rural-to-urban migration.",
+    "Overall better access to water can improve quality of life, reducing the need for migration driven by poor living conditions.",
+    "Better sanitation in urban areas can attract rural migrants seeking improved living standards.",
+    "Poor sanitation in rural areas can push people to migrate to urban areas or other countries with better living conditions.",
+    "Overall better sanitation can improve health and quality of life, reducing migration driven by poor living conditions.",
+    "High rates of sexual violence can be a push factor for emigration, especially among vulnerable populations.",
+    "High theft rates can contribute to insecurity, pushing people to migrate to safer areas.",
+    "High assault rates can contribute to insecurity, pushing people to migrate to safer areas.",
+    "High kidnapping rates can contribute to insecurity, pushing people to migrate to safer areas.",
+    "High homicide rates can contribute to insecurity, pushing people to migrate to safer areas."
+  )
+)
+
+# Display the table using kable()
+kable(data, col.names = c("Variable", "Possible Implication to Immigration Inequality"))
+```
+
+The net migration rate directly measures the difference between the number of immigrants and emigrants in a country, indicating significant economic or social factors driving migration and impacting inequality in both host and origin countries. The Gini coefficient, representing income inequality, suggests that greater income disparity can be a significant push factor for emigration as individuals seek better opportunities abroad. GDP per capita (PPP) reflects economic performance, where higher values can attract immigrants seeking better economic opportunities, affecting local job markets and increasing competition for resources.
+
+The democracy index measures political stability and freedom, with higher scores attracting immigrants seeking political stability and personal freedoms. Educational enrollment rates at primary and high school levels for both males and females indicate the availability and accessibility of education, signaling better educational opportunities that may attract families seeking quality education for their children. Access to water and sanitation measures the availability of essential services; better access improves living conditions and health, reducing migration driven by poor living standards, while inadequate access can push individuals to migrate in search of better conditions. Lastly, crime rates (including rates of sexual violence, theft, assault, kidnapping, and homicide) are crucial indicators of security within a country, where high crime rates create insecurity and fear, compelling individuals to migrate to safer areas.
+
+The chosen variables are highly relevant as they collectively provide a comprehensive overview of the conditions influencing immigration. Economic indicators like GDP per capita and income inequality highlight financial motives behind migration. Political stability, as captured by the democracy index, reveals the importance of governance and freedoms. Educational opportunities, essential services like water and sanitation, and security issues add additional layers of understanding, showing how various aspects of life quality can drive migration. By examining these variables, we can identify specific factors that disproportionately affect different population groups, shedding light on the inequalities inherent in immigration patterns. This multifaceted approach allows for a deeper understanding of the root causes of migration and helps in formulating targeted policies to address these issues.
+
+Despite their relevance, the chosen variables also have limitations. The net migration rate does not distinguish between voluntary and forced migration, driven by different factors. The Gini coefficient, while useful, does not capture other dimensions of inequality such as gender or ethnic disparities. GDP per capita provides an average economic indicator but does not reflect income distribution or the informal economy. The democracy index may not fully capture the complexities of political stability or the nuances of political freedoms in different regions. Educational enrollment rates do not indicate the quality of education or the outcomes achieved. Access to water and sanitation variables may have missing data for some countries, potentially biasing the results. Crime rates can be underreported or inaccurately measured, especially in countries with weak law enforcement.
+
+Moreover, these variables are influenced by a myriad of contextual factors that may not be fully accounted for in the analysis. Cultural, historical, and regional differences can significantly impact the interpretation of these indicators and their relation to immigration.
+
+## Regression Analysis
+
+The correlation analysis conducted in this study sheds light on the intricate relationships between net migration and various socio-economic, demographic, and political variables. By understanding these correlations (see @tbl-regression), we can better grasp the factors contributing to immigration inequalities and their potential implications.
+
+```{r, echo=FALSE}
+#| label: tbl-correlation
+#| tbl-cap: Correlation of Variables with Net Migration
+
+# Calculate the correlation matrix
+correlation_matrix <- cor(numeric_data, use = "complete.obs")
+
+# Extract the correlation of 'Net_Migration' with other variables
+# Ensure the column name matches exactly
+net_migration_correlation <- correlation_matrix["Net_Migration", ]
+
+# Convert to data frame for better formatting with kable
+net_migration_correlation_df <- as.data.frame(net_migration_correlation)
+net_migration_correlation_df <- rownames_to_column(net_migration_correlation_df, var = "Variable")
+
+kable(net_migration_correlation_df, col.names = c("Variable", "Correlation with Net Migration"))
+```
+
+Economic indicators emerged as significant factors influencing migration patterns. The strong positive correlation between GDP per capita (0.687) and net migration suggests that wealthier countries attract more immigrants seeking better economic opportunities. This finding aligns with the notion that economic prosperity is a major pull factor for migrants. Conversely, the Gini coefficient, which measures income inequality, showed a weak negative correlation (-0.088) with net migration, indicating that greater income disparity may slightly deter immigration.
+
+Political stability and governance also play crucial roles in attracting immigrants. The moderate positive correlation between the democracy index (0.526) and net migration highlights that countries with higher levels of democracy and political stability are more attractive to migrants. This suggests that migrants seek environments that offer political stability and personal freedoms.
+
+Educational opportunities showed mixed correlations with net migration. While primary school enrollment rates for males (-0.214) and females (-0.152) had weak negative correlations, high school and upper secondary school enrollments exhibited weak to moderate positive correlations. These results imply that advanced educational opportunities may attract immigrants, whereas primary education alone is less influential. Additionally, access to computers in education showed positive correlations, indicating that better technological resources in schools may appeal to migrants, particularly those with families.
+
+Labor market dynamics, such as labor force participation rates, had modest impacts on migration decisions. The weak correlations for male (-0.096), female (0.210), and total labor force participation (0.111) suggest that these factors play a minor role in influencing migration. Similarly, unemployment rates showed near-zero correlations, indicating minimal direct influence on net migration.
+
+Healthcare infrastructure emerged as a significant factor in attracting migrants. Positive correlations with net migration were found for the number of healthcare professionals, including dentists (0.340), physicians (0.197), pharmacists (0.201), and nurses and midwives (0.488). This indicates that better healthcare systems are important pull factors for migrants seeking quality medical services.
+
+Access to basic services, such as water and sanitation, also played a critical role in migration patterns. Positive correlations for urban water access (0.405), rural water access (0.405), total water access (0.367), urban sanitation (0.327), rural sanitation (0.368), and total sanitation (0.345) underscore the importance of infrastructure development in attracting and retaining migrants. Improved access to essential services enhances living conditions, reducing the need for migration driven by poor living standards.
+
+Crime rates had mixed correlations with net migration. While theft (0.448) and assault (0.269) showed positive correlations, indicating better reporting or policing in destination countries, homicide rates (-0.068) had a weak negative correlation, suggesting that high homicide rates might deter migrants.
+
+```{r, echo=FALSE, warning=FALSE, results='asis'}
+#| label: fig-correlation
+#| fig-cap:  Correlation with Net Migration
+
+# Calculate correlations
+correlation_matrix <- cor(numeric_data, use = "complete.obs")
+
+# Extract the correlation of 'Net_Migration' with other variables
+net_migration_correlation <- correlation_matrix["Net_Migration", ]
+
+# Create a data frame for the correlations with Net_Migration
+correlation_df <- data.frame(Variable = names(net_migration_correlation), Correlation = net_migration_correlation)
+
+# Remove the self-correlation (Net_Migration with Net_Migration)
+correlation_df <- correlation_df[correlation_df$Variable != "Net_Migration", ]
+
+# Plot the bar plot
+ggplot(correlation_df, aes(x = reorder(Variable, Correlation), y = Correlation,)) +
+  geom_bar(stat = "identity", fill = "steelblue") +
+  coord_flip() +
+  theme_minimal() +
+  labs(x = "Variables", y = "Correlation")
+```
+
+These correlations highlight several key areas crucial for understanding immigration patterns. Economic prosperity, political stability, access to advanced education, robust healthcare systems, and infrastructure development are significant pull factors for migrants. These factors contribute to the attractiveness of certain countries, influencing migration flows and potentially exacerbating inequalities as migrants move to regions with better opportunities and services (see @fig-correlation).
+
+However, it is essential to recognize the limitations of correlation analysis. Correlations do not imply causation, and the observed relationships may be influenced by unmeasured variables or complex interactions not captured in this study. Additionally, data gaps or inconsistencies, particularly in reporting from different countries, may affect the analysis.
+
+Future research should consider more comprehensive models, including additional variables and longitudinal data, to better understand the causal mechanisms underlying immigration inequalities. Integrating qualitative data and case studies could also provide deeper insights into the lived experiences of migrants and the factors influencing their decisions.
+
+This correlation analysis underscores the multifaceted nature of immigration inequalities, highlighting the significant role of economic, political, educational, healthcare, and infrastructure factors in shaping migration patterns. These insights can inform policymakers in designing targeted interventions to address the root causes of migration and promote more equitable outcomes for migrants and host communities alike.
+
+## Regression Analysis
+
+The regression analysis conducted in this study reveals key factors influencing net migration, offering insights into the complexities of immigration inequalities (see @tbl-regression). By examining the relationships between net migration and various socio-economic, demographic, and political variables, we can identify significant predictors and understand their implications.
+
+```{r, echo=FALSE}
+#| label: tbl-regression
+#| tbl-cap: Regression Model Summary
+
+# Define the regression formula
+formula <- Net_Migration ~ .
+
+# Fit the regression model
+model <- lm(formula, data = numeric_data)
+
+# Summarize the model
+model_summary <- summary(model)
+
+tidy_model <- broom::tidy(model)
+
+kable(tidy_model, digits = 3)
+```
+
+Economic indicators play a crucial role in migration patterns. The positive and statistically significant coefficient for GDP per capita (0.0001862, p = 0.00349) underscores that wealthier countries attract more immigrants seeking better economic opportunities. This finding aligns with the notion that economic prosperity is a major pull factor for migrants. Conversely, the positive and significant coefficient for the Gini coefficient (0.4818, p = 0.00714) suggests that higher income inequality within a country is associated with higher net migration. This counterintuitive finding may indicate that income inequality coexists with economic growth in developing countries, making them attractive despite disparities.
+
+Political stability and governance also significantly impact migration. The positive and significant coefficient for the democracy index (2.975, p = 0.00174) highlights that countries with higher levels of democracy and political stability attract more immigrants, as migrants prefer stable and free environments.
+
+Labor market dynamics present a mixed influence on migration. The positive significant coefficients for male (7.353, p = 0.00408) and female (3.951, p = 0.00774) unemployment rates, contrasted with the negative significant coefficient for total unemployment (-11.55, p = 0.00436), suggest complex interactions. These results may reflect gender-specific employment opportunities or unique labor market conditions that influence migration patterns.
+
+Healthcare infrastructure, while not showing significant coefficients for individual types of healthcare professionals, remains a critical factor in attracting migrants. The overall presence of robust healthcare systems is likely essential, though the results may be affected by collinearity with other variables.
+
+Access to basic services, particularly urban water access, emerges as a significant pull factor. The positive significant coefficient for urban water access (0.2742, p = 0.01970) underscores the importance of infrastructure in improving living conditions and attracting immigrants. Although sanitation and total water access did not show significant coefficients, their impact might be indirect or overshadowed by other factors.
+
+Security concerns also play a role in migration decisions. The negative and significant coefficient for sexual violence (-0.07041, p = 0.01727) indicates that higher rates of sexual violence deter migration, highlighting the importance of safety and security. Other crime rates, such as theft, assault, kidnapping, and homicide, did not show significant correlations, suggesting their influence may be less direct or more complex.
+
+```{r, echo=FALSE, warning=FALSE, results='asis'}
+#| label: fig-regression
+#| fig-cap: Regression Coefficients with 95% Confidence Intervals
+
+# Tidy the model output for plotting
+tidy_model <- tidy(model, conf.int = TRUE)
+
+# Filter out the intercept and non-significant predictors (optional)
+tidy_model <- tidy_model %>% filter(term != "(Intercept)")
+
+# Plot the coefficients
+ggplot(tidy_model, aes(x = reorder(term, estimate), y = estimate)) +
+  geom_point() +
+  geom_errorbar(aes(ymin = conf.low, ymax = conf.high), width = 0.2) +
+  coord_flip() +
+  labs(x = "Predictor",
+       y = "Estimate") +
+  theme_minimal()
+```
+
+This regression analysis highlights the multifaceted nature of immigration inequalities, with economic prosperity, political stability, labor market dynamics, and access to urban infrastructure emerging as crucial determinants. These findings emphasize the need for a comprehensive approach to addressing immigration inequalities, focusing on improving economic conditions, enhancing political stability, and developing infrastructure (see @fig-regression).
+
+Despite its insights, the regression analysis has limitations. The adjusted R-squared value (0.5527) indicates that while the model explains a significant portion of the variance in net migration, a substantial amount of variability remains unexplained. This suggests that other unmeasured factors or complex interactions might influence migration patterns. Additionally, data gaps or inconsistencies, particularly from different countries, and the exclusion of observations due to missingness (6795 observations deleted) could bias the results.
+
+Future research should consider more comprehensive models, including additional variables and longitudinal data, to better understand the causal mechanisms underlying immigration inequalities. Integrating qualitative data and case studies could also provide deeper insights into the lived experiences of migrants and the factors influencing their decisions.
+
+This regression analysis provides valuable insights into the factors driving immigration inequalities. Identifying significant predictors such as GDP per capita, democracy index, and urban infrastructure underscores the importance of economic, political, and infrastructural conditions in shaping migration patterns. These findings can inform policymakers in designing targeted interventions to address the root causes of migration and promote more equitable outcomes for migrants and host communities alike. Recognizing the limitations of the current analysis is crucial for future research and policy development.
+
+## Cluster Analysis
+
+The cluster analysis was conducted to identify groups of countries with similar characteristics related to immigration inequalities. Using the Elbow method, three optimal clusters were identified, which are visualized on a world map showing the distribution of countries across these clusters . Each cluster represents a distinct group of countries with socio-economic, demographic, and political characteristics influencing immigration patterns (see @fig-cluster).
+
+```{r, echo=FALSE, warning=FALSE}
+#| label: fig-cluster
+#| fig-cap: Distribution of Countries Across Clusters
+
+# Preprocess the data: Select relevant columns, handle missing values, and scale the data
+# Assuming we are interested in Net_Migration, Gini, GDP_PPP, and other related columns
+dataset <- readRDS("dataset.rds")
+
+# Add row indices to the original dataset
+dataset <- dataset %>% mutate(RowIndex = row_number())
+
+# Preprocess the data: Select relevant columns and handle missing values
+# Assuming we are interested in Net_Migration, Gini, GDP_PPP, and other related columns
+selected_data <- dataset %>% select(Net_Migration, Gini, GDP_PPP, EIU_Democracy_Index, RowIndex)
+
+# Remove rows with missing values in the selected data
+clean_data <- selected_data %>% na.omit()
+
+# Extract the RowIndex to merge later
+row_indices <- clean_data$RowIndex
+clean_data <- clean_data %>% select(-RowIndex)
+
+# Standardize the data
+scaled_data <- scale(clean_data)
+
+# Perform K-means clustering with an optimal number of clusters (e.g., k = 3)
+set.seed(123)
+km_res <- kmeans(scaled_data, centers = 3, nstart = 25)
+
+# Create a dataframe with the clustering results and their original row indices
+cluster_results <- data.frame(RowIndex = row_indices, Cluster = km_res$cluster)
+
+# Merge the cluster results back to the original dataset using RowIndex
+dataset <- dataset %>% left_join(cluster_results, by = "RowIndex")
+
+# Aggregate cluster data by country (if multiple years are present)
+cluster_data <- dataset %>%
+  group_by(Country) %>%
+  summarize(Cluster = first(Cluster))  # Use the first cluster for simplicity
+
+# Join the aggregated cluster data with a world map
+world_map <- joinCountryData2Map(cluster_data, joinCode = "NAME", nameJoinColumn = "Country")
+
+# Plot the world map with clusters
+map_params <- mapCountryData(world_map, nameColumnToPlot = "Cluster", 
+                             mapTitle = "Country Clusters", 
+                             catMethod = "categorical",
+                             colourPalette = "rainbow", 
+                             addLegend = TRUE)
+
+# Customize the legend
+do.call(addMapLegendBoxes, c(map_params, title = "Clusters"))
+```
+
+**Cluster 1 (Blue)** predominantly includes countries from North America, parts of South America, and Australia. These countries typically have higher GDP per capita, lower income inequality (indicated by lower Gini coefficients), and better access to education and healthcare. The positive net migration rates in these countries suggest they are attractive destinations for immigrants seeking better economic opportunities and living conditions.
+
+**Cluster 2 (Green)** consists mainly of countries from Europe, parts of Asia, and some regions in Africa. These countries exhibit moderate GDP per capita and varying levels of income inequality. The mix of positive and negative net migration rates indicates that some countries in this cluster are destinations for immigrants, while others are sources of emigration, reflecting diverse economic and political conditions.
+
+**Cluster 3 (Red)** includes several countries from Africa, South Asia, and some parts of South America. These countries generally have lower GDP per capita, higher income inequality, and limited access to education and healthcare. The negative net migration rates in these countries indicate they are primarily sources of emigration, with people leaving in search of better opportunities and stability elsewhere.
+
+The cluster analysis provides significant insights into global immigration patterns and the underlying factors driving these trends. By grouping countries with similar characteristics, policymakers and researchers can better understand the socio-economic and political contexts influencing migration. Countries with higher GDP per capita and better living standards are more likely to attract immigrants, highlighting the importance of economic stability and growth in managing migration flows. Additionally, higher income inequality can be a push factor for emigration, as people seek better opportunities in more equitable societies. Access to education and healthcare also plays a crucial role in making countries attractive destinations for immigrants. Improving these services can help retain talent and reduce emigration.
+
+However, the analysis has its limitations. The accuracy of clustering depends on the availability and quality of data, and missing or outdated data can affect the results. Clustering also simplifies complex socio-economic and political realities into discrete groups, which may overlook nuances and the dynamic nature of migration trends. Additionally, migration patterns can change over time due to shifts in economic conditions, political stability, and global events, meaning the current clusters may not capture future trends.
+
+The cluster analysis of countries based on immigration inequalities highlights the diverse factors influencing global migration patterns. By identifying clusters of countries with similar characteristics, this analysis provides a framework for understanding the socio-economic and political contexts driving migration. Policymakers can use these insights to develop targeted strategies for managing immigration and addressing the root causes of emigration. Future research should focus on improving data quality and incorporating temporal dynamics to enhance the understanding of migration trends.
+
+\newpage
+# Conclusion and Recommendations
+
+## Summary of the Main Findings
+
+This study delves into the complexities of international migration and the inequalities that accompany it, identifying significant trends and patterns through a comprehensive analysis of socio-economic, demographic, and political factors. The findings reveal that economic prosperity, as indicated by higher GDP per capita, is a major pull factor for migrants, with wealthier countries attracting more immigrants seeking better opportunities. Interestingly, income inequality within countries, measured by the Gini coefficient, showed a nuanced relationship with migration, suggesting that higher inequality can coexist with higher net migration rates in certain contexts.
+
+Political stability and governance, represented by the democracy index, emerged as significant influencers of migration patterns. Countries with higher levels of democracy and political stability tend to attract more migrants, emphasizing the importance of governance and personal freedoms in migration decisions. Access to basic services such as water, sanitation, and robust healthcare systems also proved to be crucial pull factors. Improved infrastructure and healthcare facilities enhance living conditions and attract migrants, while security concerns, including rates of sexual violence, significantly deter migration, underscoring the importance of safety and security.
+
+## Contributions to the UN Sustainable Development Goals (SDGs)
+
+This research contributes to several UN Sustainable Development Goals (SDGs). It supports Goal 8 (Decent Work and Economic Growth) by identifying economic drivers of migration and informing policies that improve job opportunities and economic conditions in both source and destination countries. It aligns with Goal 10 (Reduced Inequalities) by providing insights into addressing socio-economic disparities and promoting equitable migration practices. The findings also contribute to Goal 3 (Good Health and Well-being) by emphasizing the need for improved health services for migrants, and to Goal 6 (Clean Water and Sanitation) by highlighting the importance of access to essential services, thus contributing to better living conditions and reducing migration driven by poor infrastructure.
+
+## Recommendations for Future Research
+
+Future research should incorporate longitudinal data to better understand the evolving causal mechanisms behind migration inequalities. Exploring the qualitative aspects of migration, including migrants' lived experiences, can provide deeper insights into the factors influencing their decisions. Additionally, investigating the impact of global crises such as pandemics or conflicts on migration patterns and inequalities can help develop more resilient policies. Examining the role of technology and digital access in shaping migration decisions, particularly concerning education and employment opportunities, would also be beneficial.
+
+## Policy Recommendations to Address Migration Inequalities
+
+To address migration inequalities, several policy recommendations are proposed. Enhancing economic opportunities in source countries through targeted investments in job creation, education, and skills development can reduce the push factors driving migration. Promoting political stability and inclusive governance in both source and destination countries can create attractive and safe environments for migrants. Investing in basic infrastructure, including water, sanitation, and healthcare services, particularly in rural and underserved areas, can improve living conditions and reduce migration pressures. Implementing policies to improve security and reduce violence, particularly gender-based violence, can create safer environments that do not compel individuals to migrate. Lastly, fostering international cooperation to manage migration flows effectively can ensure that migration policies are humane, just, and supportive of the well-being of both migrants and host communities.
+
+By addressing these areas, policymakers can mitigate migration inequalities and create more equitable and sustainable migration systems, fostering a more inclusive and balanced global society.
+
+# References
