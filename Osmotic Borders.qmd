@@ -607,9 +607,9 @@ if (requireNamespace("rworldmap", quietly = TRUE)) {
 }
 ```
 
-**Cluster 1 (Blue)** predominantly includes countries from North America, parts of South America, and Australia. These countries typically have higher GDP per capita, lower income inequality (indicated by lower Gini coefficients), and better access to education and healthcare. The positive net migration rates in these countries suggest they are attractive destinations for immigrants seeking better economic opportunities and living conditions.
+**Cluster 1 (Blue)** predominantly includes countries from North America, parts of South America, and part of Africa. These countries typically have higher GDP per capita, lower income inequality (indicated by lower Gini coefficients), and better access to education and healthcare. The positive net migration rates in these countries suggest they are attractive destinations for immigrants seeking better economic opportunities and living conditions.
 
-**Cluster 2 (Green)** consists mainly of countries from Europe, parts of Asia, and some regions in Africa. These countries exhibit moderate GDP per capita and varying levels of income inequality. The mix of positive and negative net migration rates indicates that some countries in this cluster are destinations for immigrants, while others are sources of emigration, reflecting diverse economic and political conditions.
+**Cluster 2 (Green)** consists mainly of countries from Europe, parts of Asia, and Australia. These countries exhibit moderate GDP per capita and varying levels of income inequality. The mix of positive and negative net migration rates indicates that some countries in this cluster are destinations for immigrants, while others are sources of emigration, reflecting diverse economic and political conditions.
 
 **Cluster 3 (Red)** includes several countries from Africa, South Asia, and some parts of South America. These countries generally have lower GDP per capita, higher income inequality, and limited access to education and healthcare. The negative net migration rates in these countries indicate they are primarily sources of emigration, with people leaving in search of better opportunities and stability elsewhere.
 
