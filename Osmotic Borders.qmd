@@ -216,21 +216,21 @@ install.packages("rnaturalearthdata")
 install.packages("knitr")
 ```
 
-```{r, include=FALSE, eval=TRUE, echo=FALSE}
+```{r, include=FALSE, eval=TRUE, echo=FALSE, message=FALSE, warning=FALSE}
+# Core tidy tools and table rendering
 library(tidyverse)
-library(mice)
-library(corrplot)
-library(reshape2)
 library(broom)
-library(car)
-library(rworldmap)
-library(rworldxtra)
-library(factoextra)
-library(cluster)
-library(sf)
-library(rnaturalearth)
-library(rnaturalearthdata)
 library(knitr)
+
+# Optional: imputation and clustering helpers if available
+suppressWarnings({
+  if (requireNamespace("mice", quietly = TRUE)) library(mice)
+  if (requireNamespace("cluster", quietly = TRUE)) library(cluster)
+  # Needed for mapping in the clustering section
+  if (requireNamespace("rworldmap", quietly = TRUE)) library(rworldmap)
+  # Optional if available for country harmonization
+  if (requireNamespace("countrycode", quietly = TRUE)) library(countrycode)
+})
 ```
 
 ```{r, include=FALSE, eval=FALSE}
@@ -330,12 +330,12 @@ write_rds(dataset, "dataset.rds")
 write_csv(dataset, "dataset.csv")
 ```
 
-```{r, include=TRUE, echo=FALSE}
+```{r, include=TRUE, echo=FALSE, message=FALSE, warning=FALSE}
 
 dataset <- readRDS("dataset.rds")
 
-# Select only numerical columns
-numeric_data <- dataset %>% select_if(is.numeric)
+# Select only numerical columns (modern dplyr)
+numeric_data <- dataset %>% select(where(is.numeric))
 
 # Ensure 'Net_Migration' is included in the numeric data
 numeric_data <- numeric_data %>% select(Net_Migration, everything())
@@ -450,7 +450,7 @@ Access to basic services, such as water and sanitation, also played a critical r
 
 Crime rates had mixed correlations with net migration. While theft (0.448) and assault (0.269) showed positive correlations, indicating better reporting or policing in destination countries, homicide rates (-0.068) had a weak negative correlation, suggesting that high homicide rates might deter migrants.
 
-```{r, echo=FALSE, warning=FALSE, results='asis'}
+```{r, echo=FALSE, warning=FALSE, message=FALSE, results='asis'}
 #| label: fig-correlation
 #| fig-cap:  Correlation with Net Migration
 
@@ -548,7 +548,7 @@ This regression analysis provides valuable insights into the factors driving imm
 
 The cluster analysis was conducted to identify groups of countries with similar characteristics related to immigration inequalities. Using the Elbow method, three optimal clusters were identified, which are visualized on a world map showing the distribution of countries across these clusters . Each cluster represents a distinct group of countries with socio-economic, demographic, and political characteristics influencing immigration patterns (see @fig-cluster).
 
-```{r, echo=FALSE, warning=FALSE}
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
 #| label: fig-cluster
 #| fig-cap: Distribution of Countries Across Clusters
 
@@ -589,17 +589,22 @@ cluster_data <- dataset %>%
   summarize(Cluster = first(Cluster))  # Use the first cluster for simplicity
 
 # Join the aggregated cluster data with a world map
-world_map <- joinCountryData2Map(cluster_data, joinCode = "NAME", nameJoinColumn = "Country")
+if (requireNamespace("rworldmap", quietly = TRUE)) {
+  # Join aggregated cluster data with a world map
+  world_map <- rworldmap::joinCountryData2Map(cluster_data, joinCode = "NAME", nameJoinColumn = "Country")
 
-# Plot the world map with clusters
-map_params <- mapCountryData(world_map, nameColumnToPlot = "Cluster", 
-                             mapTitle = "Country Clusters", 
-                             catMethod = "categorical",
-                             colourPalette = "rainbow", 
-                             addLegend = TRUE)
+  # Plot the world map with clusters
+  map_params <- rworldmap::mapCountryData(world_map, nameColumnToPlot = "Cluster",
+                               mapTitle = "Country Clusters",
+                               catMethod = "categorical",
+                               colourPalette = "rainbow",
+                               addLegend = TRUE)
 
-# Customize the legend
-do.call(addMapLegendBoxes, c(map_params, title = "Clusters"))
+  # Customize the legend
+  do.call(rworldmap::addMapLegendBoxes, c(map_params, title = "Clusters"))
+} else {
+  message("Package 'rworldmap' not available; skipping map rendering.")
+}
 ```
 
 **Cluster 1 (Blue)** predominantly includes countries from North America, parts of South America, and Australia. These countries typically have higher GDP per capita, lower income inequality (indicated by lower Gini coefficients), and better access to education and healthcare. The positive net migration rates in these countries suggest they are attractive destinations for immigrants seeking better economic opportunities and living conditions.
